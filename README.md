@@ -1,5 +1,10 @@
 # LiveAngularDiretivas
 
+Link do projeto publicado: https://gilded-empanada-968509.netlify.app/
+
+Obs.: Esse projeto foi apenas de estudo de diretivas, chamada de API e estrutura de projeto do Angular, não teve como objetivo a criação de um layout "bonito" e com funcionalidades mais específicas. É um dos primeiros exercícios referente ao estudo do Angular.
+
+
 <<<<<<< HEAD
 ## Projeto desenvolvido em angular - estudo de diretivas e api - DIO
 =======
