@@ -1,6 +1,10 @@
 # LiveAngularDiretivas
 
+<<<<<<< HEAD
 ## Projeto desenvolvido em angular - estudo de diretivas e api - DIO
+=======
+Mini projeto desenvolvido durante as aulas de Angular pela plataforma DIO. Exercício de estudos de diretivas e API.
+>>>>>>> 686a8a7c8af2445d3f33c264688fe3be07ba1cc3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
