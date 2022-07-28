@@ -1,5 +1,7 @@
 # LiveAngularDiretivas
 
+Mini projeto desenvolvido durante as aulas de Angular pela plataforma DIO. Exercício de estudos de diretivas e API.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
